@@ -1,0 +1,5 @@
+{
+	"StorageAdd":"ipc:///tmp/xcoaStorage.ipc",
+    "StorageDirectory":"/tmp/xcoaDB",
+	"StorageNWorkers":3
+}
